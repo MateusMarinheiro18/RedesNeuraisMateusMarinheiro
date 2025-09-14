@@ -1,8 +1,8 @@
-site_name: Template de Entrega
-site_author: Sandmann, H.
+site_name: Artificial Neural Networks - Mateus Marinheiro
+site_author: Mateus Marinheiro
 site_url: https://github.com/MateusMarinheiro18/RedesNeuraisMateusMarinheiro
 repo_url: https://github.com/MateusMarinheiro18/RedesNeuraisMateusMarinheiro
-repo_name: github/documentation.template
+repo_name: MateusMarinheiro18/RedesNeuraisMateusMarinheiro
 
 theme:
   name: material
@@ -133,9 +133,9 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - Exercícios:
+  - Exercises:
     - 1. Data: ./exercicios/ex1-data/main.md
-    #- 2. Perceptron: ./exercicios/ex2-perceptron/main.md
+    - 2. Perceptron: ./exercicios/ex2-perceptron/main.md
     #- 3. MLP: ./exercicios/ex3-mlp/main.md
     #- 4. Metrics: ./exercicios/ex4-metrics/main.md
-  - Projetos: ./projeto/main.md
+  - Projects: ./projeto/main.md
