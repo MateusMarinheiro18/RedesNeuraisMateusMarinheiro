@@ -8,7 +8,7 @@ Here I will document all exercises and the final project developed throughout th
 ## Deliveries
 
 - [x] **Exercise 1** — Data *(delivered on 05/09/2025)*  
-- [ ] **Exercise 2** — Perceptron  
+- [x] **Exercise 2** — Perceptron  
 - [ ] **Exercise 3** — MLP  
 - [ ] **Exercise 4** — Metrics  
 - [ ] **Final Project**  
