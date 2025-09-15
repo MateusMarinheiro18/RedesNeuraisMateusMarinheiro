@@ -329,7 +329,7 @@ In such cases, the perceptron learning rule guarantees convergence in a finite n
 
 ---
 
-## Exercise 2 — Non-Linearly Separable Data
+## Exercise 2
 
 ### **1) Data Generation**
 
