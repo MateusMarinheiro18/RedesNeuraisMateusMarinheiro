@@ -2,26 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://github.com/MateusMarinheiro18/RedesNeuraisMateusMarinheiro/</loc>
-         <lastmod>2025-09-15</lastmod>
+         <lastmod>2025-09-22</lastmod>
     </url>
     <url>
          <loc>https://github.com/MateusMarinheiro18/RedesNeuraisMateusMarinheiro/exercicios/ex1-data/main/</loc>
-         <lastmod>2025-09-15</lastmod>
+         <lastmod>2025-09-22</lastmod>
     </url>
     <url>
          <loc>https://github.com/MateusMarinheiro18/RedesNeuraisMateusMarinheiro/exercicios/ex2-perceptron/main/</loc>
-         <lastmod>2025-09-15</lastmod>
+         <lastmod>2025-09-22</lastmod>
     </url>
     <url>
-         <loc>https://github.com/MateusMarinheiro18/RedesNeuraisMateusMarinheiro/exercicios/ex3-mlp/main/</loc>
-         <lastmod>2025-09-15</lastmod>
+         <loc>https://github.com/MateusMarinheiro18/RedesNeuraisMateusMarinheiro/exercicios/ex3-mlp/ex1/main/</loc>
+         <lastmod>2025-09-22</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/MateusMarinheiro18/RedesNeuraisMateusMarinheiro/exercicios/ex3-mlp/ex2/main/</loc>
+         <lastmod>2025-09-22</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/MateusMarinheiro18/RedesNeuraisMateusMarinheiro/exercicios/ex3-mlp/ex3/main/</loc>
+         <lastmod>2025-09-22</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/MateusMarinheiro18/RedesNeuraisMateusMarinheiro/exercicios/ex3-mlp/ex4/main/</loc>
+         <lastmod>2025-09-22</lastmod>
     </url>
     <url>
          <loc>https://github.com/MateusMarinheiro18/RedesNeuraisMateusMarinheiro/exercicios/ex4-metrics/main/</loc>
-         <lastmod>2025-09-15</lastmod>
+         <lastmod>2025-09-22</lastmod>
     </url>
     <url>
          <loc>https://github.com/MateusMarinheiro18/RedesNeuraisMateusMarinheiro/projeto/main/</loc>
-         <lastmod>2025-09-15</lastmod>
+         <lastmod>2025-09-22</lastmod>
     </url>
 </urlset>
